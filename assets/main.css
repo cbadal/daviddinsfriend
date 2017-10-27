@@ -49,10 +49,9 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 80vh;
+  max-width: 100%;
   height: auto;
   width: auto;
-  max-height: 80vh;
   vertical-align: middle; }
 
 /**
@@ -250,13 +249,12 @@ pre {
   max-width: 100%;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 20%;
-  padding-bottom: 20%;
   padding-right: 20%;
   padding-left: 20%; }
 
 .img-vertical {
-  height: auto;
+  /*height: auto;*/
+  height: 80vh;
   width: auto;
   padding: 10%; }
 
