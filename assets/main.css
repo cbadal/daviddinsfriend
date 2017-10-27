@@ -51,12 +51,6 @@ ul, ol, dl, figure,
 img {
   max-width: 100%;
   vertical-align: middle;
-  opacity: 1;
-  transition: opacity 0.3s;
-}
-
-img[data-src] {
-  opacity: 0;
 }
 
 /**
