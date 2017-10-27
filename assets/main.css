@@ -50,8 +50,8 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 100%;
-  height: auto;
-  width: auto;
+  /*height: auto;
+  width: auto;*/
   vertical-align: middle; }
 
 /**
