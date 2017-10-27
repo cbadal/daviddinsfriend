@@ -49,7 +49,10 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 100vh;
+  height: auto;
+  width: auto;
+  max-height: 100vh;
   vertical-align: middle; }
 
 /**
