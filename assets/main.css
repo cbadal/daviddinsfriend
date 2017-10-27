@@ -253,8 +253,7 @@ pre {
   padding-left: 20%; }
 
 .img-vertical {
-  /*height: auto;*/
-  height: 80%;
+  height: auto;
   width: auto;
   padding: 10%; }
 
