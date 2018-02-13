@@ -173,7 +173,7 @@ pre {
   z-index: 1; }
 
 .site-nav {
-  font-family: 'Old Standard TT', monospace;
+  font-family: 'Old Standard TT', serif;
   text-transform: uppercase;
   font-size: 18px;
   color: black !important; }
@@ -195,7 +195,8 @@ pre {
   z-index: 99; }
 
 .site-title {
-  font-family: "Old Standard TT";
+  font-family: "Old Standard TT", serif;
+  text-transform: uppercase;
   font-size: 18px;
   color: black !important;
   z-index: 99; }
@@ -280,7 +281,7 @@ video {
   position: fixed; }
 
 .body-text {
-  font-family: 'Old Standard TT', monospace;
+  font-family: 'Old Standard TT', serif;
   font-size: 18px;
   color: black !important;
   text-align: center; }
@@ -482,7 +483,7 @@ video {
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
@@ -1544,7 +1545,7 @@ html {
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Old Standard TT", serif;
   font-size: 14px;
   line-height: 1.42857;
   color: #111;
